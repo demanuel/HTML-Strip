@@ -190,14 +190,14 @@ Set this to false if you do not want this.
 
 =head1 AUTHORS
 
-=item Dagur Valberg Johannsson.
+=item Dagur Valberg Johannsson
 =item Raku Community
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2013 - 2017 =item Dagur Valberg Johannsson.
+Copyright 2013 - 2017 Dagur Valberg Johannsson.
 
-Copyright 2024 Raku Commuity
+Copyright 2024 Raku Community
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 
