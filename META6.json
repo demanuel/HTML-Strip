@@ -7,7 +7,7 @@
   "build-depends": [
   ],
   "depends": [
-    " HTML::Entity::Fast:ver<0.0.5+>:auth<zef:lizmat>"
+    "HTML::Entity::Fast:ver<0.0.5+>:auth<zef:lizmat>"
   ],
   "description": "Strip HTML markup from text.",
   "license": "Artistic-2.0",
